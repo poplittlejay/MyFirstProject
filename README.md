@@ -3,5 +3,5 @@ Hellow there!\
 This repository holds my programming projects done during the period of stanCode SC001 course.
 
 ## Project Source Codes:
-*[BeeperRow](https://github.com/poplittlejay/MyFirstProject/blob/main/stanCode_SC001_Project/BeeperRow.py)
-*
+* [BeeperRow](https://github.com/poplittlejay/MyFirstProject/blob/main/stanCode_SC001_Project/BeeperRow.py)
+  * This program makes Karel fill up Street 1 with beepers
